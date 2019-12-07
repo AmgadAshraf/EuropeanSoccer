@@ -15,4 +15,4 @@ At first, all the tables in the database were populated to Pandas dataframes. Ea
 ## Final Analysis:
 After all the dataframes were cleaned, some dataframes were merged to obtain meaningful results that can be used to feed a machine learning model to predict a match outcome. A match lineups visualization is shown at the end of this notebook, illustrating a match between Barcelona vs Real Madrid, displaying the home and away team names, and the season when this match was held. Each team formation in this match is presented in a different colour, displaying the name of the player occupying each position in the football field along with his latest overall rating.
 
-![Screenshot]("Pitch Visualization.png")
+![Screenshot](https://github.com/AmgadAshraf/EuropeanSoccer/blob/master/Pipeline%20Flowchart.png)
