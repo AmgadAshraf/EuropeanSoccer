@@ -8,6 +8,7 @@ The first question that raises when attempting to achieve the intended goal is t
 
 ## Data:
 The dataset used in this project is the European Soccer Database from Kaggle.
+Link to the database file: https://drive.google.com/file/d/1n-xzgLuV82KGe6Zyr9lKLJqC20gnra9M/view?usp=sharing
 
 ## Exploratory Data Analysis:
 At first, all the tables in the database were populated to Pandas dataframes. Each dataframe was thoroughly examined to know the necessary data tidying and cleaning procedures that should be applied. Statistical methods as well as visualizations were used to analyze the data and make justifiable decisions. For example, the percentage of missing values in a dataframe was considered to know the appropriate way to impute these missing values. Duplicates were removed in order that the data can serve the aim of our project. Column names and types were investigated to ensure consistency is maintained across all dataframes. All decisions were backed up by statistical means.
